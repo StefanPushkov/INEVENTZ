@@ -1,7 +1,9 @@
 from SCRAPPING.scrap_text import List, markup
 from TESTS.test import get_data_from_accounts
 import pandas as pd
-list_of_accounts = ['themarkest', '_german1um']
+list_of_accounts = ['wankymusic', 'delodesign', 'masa.neta', 'nana_dechire', 'testfm_radio', 'tancploshadka',
+                    'mishka.bar', 'mishka.bar', 'napirelly', 'immediate_proximity', 'primitive_____',
+                    'honealomer', 'sinusoidal_music', 'vityatsoy', 'rad__machine']
 new_df = pd.DataFrame(columns=['text', 'label'])
 list_of_df_names = []
 
