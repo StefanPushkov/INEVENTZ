@@ -1,2 +1,6 @@
 LIST OF ACCOUNTS
-'wankymusic', 'delodesign', 'masa.neta', 'nana_dechire', 'testfm_radio', 'tancploshadka', 'mishka.bar', 'mishka.bar', 'napirelly', 'immediate_proximity', 'primitive_____', 'honealomer', 'sinusoidal_music', 'vityatsoy', 'rad__machine'
+'wankymusic', 'delodesign', 'masa.neta', 'nana_dechire', 'testfm_radio', 'tancploshadka', 'mishka.bar', 'mishka.bar',
+'napirelly', 'immediate_proximity', 'primitive_____', 'honealomer', 'sinusoidal_music', 'vityatsoy', 'rad__machine'
+
+NEW
+'luminous_bar', 'redrum.bar.spb'

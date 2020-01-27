@@ -3,7 +3,7 @@ import subprocess
 
 list_of_accounts = []
 def get_data_from_accounts(account: str):
-    a = subprocess.getoutput('instagram-scraper {0} --media-metadata'.format(account))
+    a = subprocess.getoutput('instagram-scraper {0} --media-metadata --media-types none --latest'.format(account))
     # a = check_output("dir", shell=True).decode()
     print("DATA FROM {0} ACCOUNT".format(account), a)
 
